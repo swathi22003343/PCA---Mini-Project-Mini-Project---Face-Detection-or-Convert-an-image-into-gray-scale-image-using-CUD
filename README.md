@@ -134,17 +134,18 @@ void outputImage(const std::string& output_file, unsigned char* grey_image, int 
 
 ## OUTPUT:
 
-### Input Image
+![image](https://github.com/user-attachments/assets/489a21d9-9b2e-4689-aa2f-c3a012b6314d)
 
 
-![flowers-nature-pink-9611](https://github.com/user-attachments/assets/b17f0942-ec1e-4255-8d5e-7cce578166ac)
+
+
 
 
 
 ### Grayscale Image
 
+![Screenshot 2024-10-02 144428](https://github.com/user-attachments/assets/b9de5137-ab02-40e6-8a97-8834cf717848)
 
-![flowers-nature-pink-9611-modified](https://github.com/user-attachments/assets/5438f826-4200-4d49-88d8-acbdd72747e1)
 
 
 ## Result:
